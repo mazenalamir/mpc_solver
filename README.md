@@ -17,4 +17,6 @@ Regarding the second option, the gradient is automatically computed using the `j
 
 ### Description of the files 
 
-The `jupyter notebook` entitled 
+The `jupyter notebook` entitled `Using_mpc_solver_module_PVTOL_example.ipynb` provides the example of use of both option on the specific examples of the Planar Vertical Take-Of and Landing (PVTOL) aircraft showing two refulated variable, two control inputs and 6 states. 
+
+For more details regarding the available utitlities, refer to the above mentioned book or to the module file `mpc_solver.py`. 
